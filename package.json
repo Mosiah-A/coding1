@@ -1,0 +1,15 @@
+{
+  "name": "coding1.1",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\" > Resumo da aula </h1>",
+  "main": "atv.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "node": "^22.9.0"
+  }
+}
