@@ -29,3 +29,5 @@ const multiplicacao = mn1 * mn2;
 
 console.log(`${mn1} * ${mn2} = ${multiplicacao}`)
  
+
+console.log('Fim!')
