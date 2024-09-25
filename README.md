@@ -35,3 +35,27 @@
     - nome = world
     - console.log('hello ${nome})
         - Output: hello world
+
+
+# 25/09 
+ - Biblioteca - lib
+- dependências
+- Frameworks
+
+- Gerenciador: npm
+    - npm init -y
+- Servidos: Linguagem `Node.JS`
+    - npm install node
+
+codespade → github
+
+fazer o comit e o pull
+
+git add .
+
+git commit -m “mensagem”
+
+git init
+
+git push origin main
+ 
