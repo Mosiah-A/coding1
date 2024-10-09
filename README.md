@@ -59,7 +59,7 @@ git init
 
 git push origin main
 
-# 09/10
+# 02/10
 
 ## Operadores de comparação
 
@@ -82,4 +82,12 @@ git push origin main
 - || ou
 
 - && e
+
+# 09/10
+### Solicitar informação do usuario
+
+prompt("Texto aqui");
+
+### formatar string em lower case
+prompt("Escolha a fruta: ").toLowerCase();
  
