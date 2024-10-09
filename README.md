@@ -58,4 +58,28 @@ git commit -m “mensagem”
 git init
 
 git push origin main
+
+# 09/10
+
+## Operadores de comparação
+
+- == igual (considera quantidade de caracteres mas não o tipo de dado)
+
+- === igual (tipo de dado, quantidade de caracteres / Mais preciso)
+
+- .>  maior que
+
+- <  menor que
+
+- .>= maior igual a
+
+- <= menos igual a
+
+- !== diferente
+
+- != diferente
+
+- || ou
+
+- && e
  
