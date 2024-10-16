@@ -105,4 +105,13 @@ prompt("Texto aqui");
 
 ### formatar string em lower case
 prompt("Escolha a fruta: ").toLowerCase();
+
+# 16/10
+## Array
+
+``` js
+const livros = ["livro 1", "Livro 2", "Livro 3"]
+```
+
+Atividade de Array: https://codepen.io/Mosiah-Andrade/pen/gOVWegd?editors=0012
  

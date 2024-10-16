@@ -21,7 +21,6 @@ const dn2 = 3;
 const divisao = dn1 / dn2;
 
 console.log(`${dn1} * ${dn2} = ${divisao.toFixed(2)}`)
- 
 
 const mn1 = 5;
 const mn2 = 4;
