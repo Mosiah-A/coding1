@@ -59,6 +59,21 @@ git init
 
 git push origin main
 
+## config no visual studio
+``` git
+git config --global user.name "Seu Nome"
+git config --global user.email "seu.email@example.com"
+
+cd /caminho/para/seu/repositorio
+git init
+
+git remote add origin https://github.com/usuario/repositorio.git
+
+git pull origin main
+
+
+```
+
 # 02/10
 
 ## Operadores de comparação
