@@ -113,5 +113,19 @@ prompt("Escolha a fruta: ").toLowerCase();
 const livros = ["livro 1", "Livro 2", "Livro 3"]
 ```
 
-Atividade de Array: https://codepen.io/Mosiah-Andrade/pen/gOVWegd?editors=0012
+[Atividade de Array](https://codepen.io/Mosiah-Andrade/pen/gOVWegd?editors=0012)
+
+
+
+# 23/10 
+## Array v2.0
+
+``` js 
+var tamanhoLivros = livros.length; /* O Length mostra o tamanho do do array livros */
+livros.slice(indexInicial, [IndexFinal]); /* O slice divide a Array com o Index Inicial sendo obrigatorio
+e o Index Final opcional mostrando onde deve parar */
+array.concat(array); /* Concat concatena uma array em outra adicionando a array dentro do parentese no final da outra */
+array.sort(); /* sort ordena de forma alfabetica ou numerica de A-z ou de 0-... */
+```
+[Atividade](https://codepen.io/Mosiah-Andrade/pen/rNXYBMG?editors=0012)
  
