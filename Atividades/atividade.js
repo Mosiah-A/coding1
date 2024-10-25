@@ -3,8 +3,6 @@
     Atividade: programa de fixação tipos primitivos
         Objetivos: Desenvolver  habilidade de compreensãp de variáveis, strings, numeros e calculos básicos usando JavaScript
 */
-const { describe } = require("node:test");
-const { basename } = require("path");
 
  
 console.log("\n##################### Hello ##################\n")
