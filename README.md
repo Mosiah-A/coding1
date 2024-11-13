@@ -129,3 +129,22 @@ array.sort(); /* sort ordena de forma alfabetica ou numerica de A-z ou de 0-... 
 ```
 [Atividade](https://codepen.io/Mosiah-Andrade/pen/rNXYBMG?editors=0012)
  
+# 13/11
+## Função
+### Sintaxe
+```js
+Função {
+bloco de codigo
+}
+```
+
+### exempo:  
+
+```jsx
+function mediaMat(prova, redacao) {
+	return (prova+redacao) / 2
+}
+console.log(mediaMat(10,5))
+
+// --output-- 7 
+```
